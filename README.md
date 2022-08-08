@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @fizaashraf and I am an experienced software developer with 5 years of experience in software development. I have experience in diverse fields, 
-- like game development, enterprise applications integrations, data engineering, deep learning, oracle cloud applications, ETL, Web APIs, REST and Soap APIs
+- 👋 Hi, I’m @fizaashraf and I am an experienced software developer with 5 years of experience in software development. I have experience in diverse fields, like game development, enterprise applications integrations, data engineering, deep learning, oracle cloud applications, ETL, Web APIs, REST and Soap APIs
 - 👀 I’m interested in sofware development majorly web applications development and web APIs
 - 🌱 I’m currently learning full stack development for web applications
 - 💞️ I’m looking to collaborate on backend development for web applications and open source contribution
