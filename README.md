@@ -2,7 +2,7 @@
 - 👀 I’m interested in sofware development majorly web applications development and web APIs
 - 🌱 I’m currently learning full stack development for web applications
 - 💞️ I’m looking to collaborate on backend development for web applications and open source contribution
-- 💞️ I’m currently working as an open source contributor with django web framework
+- 💞️ I’m currently working as an open source contributor with django web framework and flask-swagger-generator
 - 📫 You can reach out to me on my email (fizaashraf37@gmail.com)
 
 <!---
