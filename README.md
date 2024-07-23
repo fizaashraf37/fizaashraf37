@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fiza Ashraf
 ---
-I am an experienced software developer with 6 years of experience in software development. I have experience in diverse fields, like game development, enterprise applications integrations, data engineering, deep learning, oracle cloud applications, ETL, Web APIs, REST and Soap APIs
+I am an experienced software developer with 7 years of experience in software development. I have experience in diverse fields, like game development, enterprise applications integrations, data engineering, deep learning, oracle cloud applications, ETL, Web APIs, REST and Soap APIs
 - 👀 Currently working as a Software Engineer at Motive (Unicorn Company in San Francisco, California)
 - 💞️ I’m also working as an open source contributor with open-source projects
      - Contributor and maintainer of [flask-swagger-generator](https://github.com/coding-kitties/flask-swagger-generator)
