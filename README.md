@@ -9,11 +9,20 @@ I am an experienced software developer with 7 years of experience in software de
      - Follow me on [Medium](https://medium.com/@fizaashraf37) and [Blogger](https://blogsbyfiza.blogspot.com/) for latest tech blogs or articles
 - 📫 Reach out to me on my email (fizaashraf37@gmail.com) for any queries
 
+<!---
 ![Fiza's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=fizaashraf37&show_icons=true)
 
 ![Fiza's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fizaashraf37)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaashraf37) 
+--->
+
+![Fiza's GitHub Statistics](https://github-readme-stats-aieysasoe-fiza-ashrafs-projects.vercel.app/api?username=fizaashraf37&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
+
+![Fiza's GitHub Streak](https://github-readme-stats-aieysasoe-fiza-ashrafs-projects.vercel.app/api?user=fizaashraf37&count_private=true)
+
+![Top Languages](https://github-readme-stats-aieysasoe-fiza-ashrafs-projects.vercel.app/api/top-langs/?username=fizaashraf37&count_private=true)
+
 
 
 <!---
