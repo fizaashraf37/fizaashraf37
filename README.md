@@ -17,7 +17,7 @@ I am an experienced software developer with 7 years of experience in software de
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fizaashraf37) 
 --->
 
-![Fiza's GitHub Statistics](https://github-readme-stats-8sy7agw0g-fiza-ashrafs-projects.vercel.app/api?username=fizaashraf37&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)
+![Fiza's GitHub Statistics](https://github-readme-stats-8sy7agw0g-fiza-ashrafs-projects.vercel.app/api?username=fizaashraf37&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Fiza's GitHub Streak](https://github-readme-stats-8sy7agw0g-fiza-ashrafs-projects.vercel.app/api?username=fizaashraf37&count_private=true)
 
